@@ -3,7 +3,12 @@ SublimeText3-settings
 
 Mac版SublimeText3の設定置き場
 
-## PackageControlをインストール
+## 目次
+* [PackageControlをインストール](#how-to-install)  
+* [必要なPackageをインストール](#Add-Package)  
+* [テーマを導入](#Add-Thema)   
+
+## <a name="how-to-install">PackageControlをインストール
 1. 以下のサイトを参照するか下記のコードをコピー  
 [PackageControl](https://sublime.wbond.net/installation#st3)
 ```
@@ -20,9 +25,27 @@ open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen(
 
 > 以下PackageControlがインストールされていることが前提
 
-## 必要なPackageをインストール
+## <a name="Add-Package">必要なPackageをインストール
 1. `Command + Shift + P`でコマンドパレットを開く
 
 2. `Install Package`と入力後、`Enter`
 
-3. 入れたいパッケージを探して`Enter`
+3. 入れたいパッケージ名を入力して`Enter`
+
+### 導入したパッケージ
+* PackageControl
+* Emmet
+* Markdown Extended
+* Markdown Preview
+* LiveReload
+* SublimeLinter
+* SideBarEnhancement
+
+## <a name="Add-Thema">テーマを導入
+ついでにMarkdownのシンタックスハイライトにも対応しているテーマを導入する。  
+
+1.  `Command + Shift + P`でコマンドパレットを開く
+
+2. `Install Package`と入力後、`Enter`
+
+3. `Monokai Extended`と入力後、`Enter`でテーマをインストールする。
