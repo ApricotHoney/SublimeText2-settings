@@ -1,7 +1,7 @@
-SublimeText3-settings
+SublimeText2-settings
 =====================
 
-Mac版SublimeText3の設定置き場
+Mac版SublimeText2の設定置き場
 
 ## 目次
 * [PackageControlをインストール](#how-to-install)  
