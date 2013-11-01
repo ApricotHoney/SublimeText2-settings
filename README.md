@@ -34,6 +34,8 @@ open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen(
 
 ### 導入したパッケージ
 * PackageControl
+* ConvertToUTF8
+* IMESupport
 * Emmet
 * Markdown Extended
 * Markdown Preview
