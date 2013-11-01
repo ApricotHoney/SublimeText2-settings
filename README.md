@@ -19,7 +19,7 @@ open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen(
 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())
 ```
 
-2. SublimeText3を起動して``Command + `(バッククオート)``でコンソールを開く
+2. SublimeText2を起動して``Command + `(バッククオート)``でコンソールを開く
 
 3. 先ほどコピーしたコードをペーストし、`Enter`を押す。
 
