@@ -35,7 +35,6 @@ os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net
 ### 導入したパッケージ
 * PackageControl
 * ConvertToUTF8
-* IMESupport
 * Emmet
 * Markdown Extended
 * Markdown Preview
