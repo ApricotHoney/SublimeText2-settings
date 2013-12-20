@@ -76,8 +76,7 @@ os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net
 		//使用しないパッケージ
 		"ignored_packages":
 		[
-			"Vintage",
-			"SublimeCodeIntel"
+			"Vintage"
 		],
 		"rulers":
 		[
