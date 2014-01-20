@@ -9,15 +9,8 @@ Mac版SublimeText2の設定置き場
 * [テーマを導入](#Add-Thema)   
 
 ## <a name="how-to-install">PackageControlをインストール
-1. 以下のサイトを参照するか下記のコードをコピー  
-[PackageControl](https://sublime.wbond.net/installation#st3)
-```
-import urllib2,os; pf='Package Control.sublime-package'; ipp = 
-sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else 
-None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( 
-os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' 
-+pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')
-```
+1. 以下のサイトを参照  
+[PackageControl](https://sublime.wbond.net/installation#st2)
 
 2. SublimeText2を起動して``Command + `(バッククオート)``でコンソールを開く
 
@@ -33,14 +26,39 @@ os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net
 3. 入れたいパッケージ名を入力して`Enter`
 
 ### 導入したパッケージ
-* PackageControl
+* Angular JS
+* Arduino-like IDE
+* AutoFileName
+* BracketHighlighter
+* Compass
 * ConvertToUTF8
 * Emmet
+* GitHub Flavored Markdown Preview
+* Grunt
+* Hayaku
+* IMESupport
+* jQuery
+* Line Endings
+* LiveReload
 * Markdown Extended
 * Markdown Preview
-* LiveReload
+* Monokai Extended
+* Nodejs
+* Package Control -DefactStandard
+* Pandoc
+* PyV8 -automatic
+* ReVIEW
+* Sass
+* SASS Build
+* SCSS
+* SCSS Snippets
+* SideBarEnhancements
+* Stino-master -Arduino IDE
+* SublimeCodeIntel
 * SublimeLinter
-* SideBarEnhancement
+* Tag
+* Terminal
+* Theme - Flatland
 
 ## <a name="Add-Thema">テーマを導入
 ついでにMarkdownのシンタックスハイライトにも対応しているテーマを導入する。  
