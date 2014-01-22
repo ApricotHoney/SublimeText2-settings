@@ -32,6 +32,7 @@ Mac版SublimeText2の設定置き場
 * BracketHighlighter
 * Compass
 * ConvertToUTF8
+* Ctags
 * Emmet
 * GitHub Flavored Markdown Preview
 * Grunt
