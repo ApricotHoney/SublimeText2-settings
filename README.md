@@ -78,8 +78,12 @@ Mac版SublimeText2の設定置き場
 		//カラースキーム
 		"color_scheme": "Packages/Monokai Extended/Monokai Extended Bright.tmTheme",
 		"detect_slow_plugins": false,
+		//Emmetで日本語変換をうまくできるように
 		"disable_formatted_linebreak": true,
+		//Emmetでtabでの展開を禁止
 		"disable_tab_abbreviations": true,
+		//tabのspace挿入を阻止
+		"translate_tabs_to_space": false,
 		//空白スペースを可視化
 		"draw_white_space": "all",
 		//フォントの種類
