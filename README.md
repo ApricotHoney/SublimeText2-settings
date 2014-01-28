@@ -59,6 +59,9 @@ Mac版SublimeText2の設定置き場
 * Stino-master -Arduino IDE
 * SublimeCodeIntel
 * SublimeLinter
+	* SublimeLinter-ghc
+	* SublimeLinter-ruby
+	* SublimeLinter-PeP8
 * Tag
 * Terminal※
 * Theme - Flatland
