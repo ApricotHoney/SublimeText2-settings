@@ -34,6 +34,7 @@ Mac版SublimeText2の設定置き場
 * ConvertToUTF8
 * Ctags
 * Emmet
+* FuluentREPL https://github.com/zaneli/FluentREPL
 * GitHub Flavored Markdown Preview
 * Grunt
 * Hayaku
@@ -41,6 +42,7 @@ Mac版SublimeText2の設定置き場
 * jQuery
 * Line Endings
 * LiveReload
+* Mac Terminal※
 * Markdown Extended
 * Markdown Preview
 * Monokai Extended
@@ -48,7 +50,7 @@ Mac版SublimeText2の設定置き場
 * Package Control -DefactStandard
 * Pandoc
 * PyV8 -automatic
-* ReVIEW
+* ReVIEW https://github.com/yanzm/ReVIEW
 * Sass
 * SASS Build
 * SCSS
@@ -58,7 +60,7 @@ Mac版SublimeText2の設定置き場
 * SublimeCodeIntel
 * SublimeLinter
 * Tag
-* Terminal
+* Terminal※
 * Theme - Flatland
 
 ## <a name="Add-Thema">テーマを導入
